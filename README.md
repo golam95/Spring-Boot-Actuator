@@ -16,8 +16,8 @@ This project name is “Student Verification System”. This application is deve
 * Add Post</span> <br>
 * Mange messages</span> <br>
 <br>
-<img src="Spring-Boot-Actuator/img/01.PNG" width=1200 height=450>
+<img src="profile/img/01.PNG" width=1200 height=450>
 </br>
-<img src="Spring-Boot-Actuator/img/02.PNG" width=1200 height=450>
+<img src="profile/img/02.PNG" width=1200 height=450>
 </br>
 
